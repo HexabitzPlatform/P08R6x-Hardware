@@ -1446,30 +1446,30 @@ In this library the device names are the same as the pin names of the symbols, t
 <part name="SUPPLY16" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="VDD" device=""/>
 <part name="SUPPLY17" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="VDD" device=""/>
 <part name="R4" library="Hexabitz" deviceset="R-0603" device="" value="2.2k">
-<attribute name="MFN" value="Yageo"/>
-<attribute name="MPN" value="RC0603FR-07270RL"/>
+<attribute name="MFN" value="Vishay"/>
+<attribute name="MPN" value="CRCW06032K20FKEA"/>
 <attribute name="OCTOPART_URL" value="https://octopart.com/crcw06032k20fkea-vishay-40018987"/>
 <attribute name="RESISTANCE" value="2.2 kΩ"/>
 <attribute name="TOLERANCE" value="±1%"/>
 </part>
 <part name="R5" library="Hexabitz" deviceset="R-0603" device="" value="2.2k">
-<attribute name="MFN" value="Yageo"/>
-<attribute name="MPN" value="RC0603FR-07270RL"/>
+<attribute name="MFN" value="Vishay"/>
+<attribute name="MPN" value="CRCW06032K20FKEA"/>
 <attribute name="OCTOPART_URL" value="https://octopart.com/crcw06032k20fkea-vishay-40018987"/>
 <attribute name="RESISTANCE" value="2.2 kΩ"/>
 <attribute name="TOLERANCE" value="±1%"/>
 </part>
 <part name="R6" library="Hexabitz" deviceset="R-0603" device="" value="2.2k">
-<attribute name="MFN" value="Yageo"/>
-<attribute name="MPN" value="RC0603FR-07270RL"/>
+<attribute name="MFN" value="Vishay"/>
+<attribute name="MPN" value="CRCW06032K20FKEA"/>
 <attribute name="OCTOPART_URL" value="https://octopart.com/crcw06032k20fkea-vishay-40018987"/>
 <attribute name="RESISTANCE" value="2.2 kΩ"/>
 <attribute name="TOLERANCE" value="±1%"/>
 </part>
 <part name="SUPPLY19" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="VDD" device=""/>
 <part name="R7" library="Hexabitz" deviceset="R-0603" device="" value="2.2k">
-<attribute name="MFN" value="Yageo"/>
-<attribute name="MPN" value="RC0603FR-07270RL"/>
+<attribute name="MFN" value="Vishay"/>
+<attribute name="MPN" value="CRCW06032K20FKEA"/>
 <attribute name="OCTOPART_URL" value="https://octopart.com/crcw06032k20fkea-vishay-40018987"/>
 <attribute name="RESISTANCE" value="2.2 kΩ"/>
 <attribute name="TOLERANCE" value="±1%"/>
